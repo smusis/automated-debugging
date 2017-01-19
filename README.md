@@ -4,4 +4,4 @@ This project contains data related to study we did to understand "How Practition
 
 Survey.pdf - Contains survey questions
 
-AssData.csv - Responses of the survey
+AllData.csv - Responses of the survey
